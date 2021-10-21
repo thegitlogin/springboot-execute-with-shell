@@ -6,6 +6,6 @@
 	- spring boot execute script
 		chmod +x springboot.sh
 		> start ./springboot.sh start
-		> stop ./springboot stop
-		> status ./springboot status
+		> stop ./springboot.sh stop
+		> status ./springboot.sh status
 ```
